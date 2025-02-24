@@ -17,7 +17,7 @@ SQL
 
 From command line :
 
-simply download the JAR to your favourite folder
+simply build the JAR to your favourite folder
 
 Navigate to that folder at the command prompt
 
