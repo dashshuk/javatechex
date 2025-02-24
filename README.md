@@ -29,7 +29,7 @@ Then from browser or a REST client like postman enter following URL and enter
 
 http://localhost:8080/1
 
-Where 1 represents customer id (its parameterised so should work any customer id)
+Where 1 represents customer id (its parameterised so should work for any customer id)
 
 This should give you the desired results.
 
