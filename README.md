@@ -21,7 +21,7 @@ Simply build the JAR to your favourite folder
 
 Navigate to that folder at the command prompt
 
-Type java -jar <jarname>.jar and press enter (jar name is the name of the jar file sent out)
+Type java -jar {jarname}.jar and press enter (jarname is the name of the jar file sent out)
 
 This will run the app on default port 8080 (make sure nothing else is using that port)
 
